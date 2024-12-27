@@ -1,0 +1,39 @@
+# Rime dictionary - wubi86_11.dict.yaml
+# encoding: utf-8
+# 
+# --- 说明 ---
+# 该字典是基于官方码表版本
+# - https://github.com/rime/rime-wubi
+# - Jack Liu <https://aituyaa.com>
+# 
+# 修改内容：
+# - 删除非国标 8105-2023 单字及其所组词语 
+# - 按字数进行分表处理
+# - 合并全国省区县扩展词表
+# 
+# 运行脚本：
+# - https://github.com/loveminimal/rime-utils/blob/master/scripts/wubi86.py
+# - py scripts/wubi86.py [-i src] [-o out] [-f file_endswith_filter] [-m multifile_out_mode]
+# 
+# 其他参考码表：
+# - https://github.com/KyleBing/rime-wubi86-jidian
+# 
+---
+name: wubi86_11
+version: 2024-12-27
+sort: by_weight
+use_preset_vocabulary: false
+...
+以其人之道还至其人之身	nawt	10
+莫力达瓦达斡尔族自治旗	aldy	150722
+喀喇沁左翼蒙古族自治县	kkie	211324
+前郭尔罗斯蒙古族自治县	uyqe	220721
+威宁彝族回族苗族自治县	dpxe	520526
+黔西南布依族苗族自治州	lsfy	522300
+金平苗族瑶族傣族自治县	qgae	532530
+克孜勒苏柯尔克孜自治州	dbay	653000
+塔什库尔干塔吉克自治县	fwye	653131
+压垮骆驼的最后一根稻草	dfca	0
+压死骆驼的最后一根稻草	dgca	0
+没有金刚钻就别揽瓷器活	idqi	0
+金窝银窝不如自己的狗窝	qpqp	0

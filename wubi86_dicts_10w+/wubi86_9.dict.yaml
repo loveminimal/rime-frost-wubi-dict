@@ -1,0 +1,67 @@
+# Rime dictionary - wubi86_9.dict.yaml
+# encoding: utf-8
+# 
+# --- 说明 ---
+# 该字典是基于官方码表版本
+# - https://github.com/rime/rime-wubi
+# - Jack Liu <https://aituyaa.com>
+# 
+# 修改内容：
+# - 删除非国标 8105-2023 单字及其所组词语 
+# - 按字数进行分表处理
+# - 合并全国省区县扩展词表
+# 
+# 运行脚本：
+# - https://github.com/loveminimal/rime-utils/blob/master/scripts/wubi86.py
+# - py scripts/wubi86.py [-i src] [-o out] [-f file_endswith_filter] [-m multifile_out_mode]
+# 
+# 其他参考码表：
+# - https://github.com/KyleBing/rime-wubi86-jidian
+# 
+---
+name: wubi86_9
+version: 2024-12-27
+sort: by_weight
+use_preset_vocabulary: false
+...
+做一天和尚撞一天钟	wggq	148000
+达尔罕茂明安联合旗	dqpy	150223
+靖州苗族侗族自治县	uyae	431229
+连山壮族瑶族自治县	lmue	441825
+保亭黎族苗族自治县	wyte	469029
+琼中黎族苗族自治县	gkte	469030
+阿坝藏族羌族自治州	bfay	513200
+禄劝彝族苗族自治县	pcxe	530128
+寻甸回族彝族自治县	vqle	530129
+新平彝族傣族自治县	ugxe	530427
+景谷傣族彝族自治县	jwwe	530824
+耿马傣族佤族自治县	bcwe	530926
+文山壮族苗族自治州	ymuy	532600
+西双版纳傣族自治州	scty	532800
+巍山彝族回族自治县	mmxe	532927
+大通回族土族自治县	dcle	630121
+民和回族土族自治县	ntle	630222
+巴里坤哈萨克自治县	cjfe	650521
+博尔塔拉蒙古自治州	fqfy	652700
+巴音郭楞蒙古自治州	cuyy	652800
+察布查尔锡伯自治县	pdse	654022
+世上没有不透风的墙	ahif	0
+有人的地方就有江湖	dwri	0
+奇怪的知识又增加了	dnrb	0
+丈二和尚摸不着头脑	dfte	0
+天下没有不散的宴席	ggiy	0
+互联网不是法外之地	gbmf	0
+一朵鲜花插在牛粪上	gmqh	0
+天下没有免费的午餐	ggih	0
+临兵斗者皆阵列前行	jrut	0
+临兵斗者皆阵列在前	jruu	0
+唯女子与小人难养也	kvbb	0
+跑得了和尚跑不了庙	ktby	0
+吃不到葡萄说葡萄酸	kggs	0
+然而并没有什么卵用	qdue	0
+铁打的营盘流水的兵	qrrr	0
+林子大了什么鸟都有	sbdd	0
+冰冻三尺非一日之寒	uudp	0
+君子不立于危墙之下	vbgg	0
+那人却在灯火阑珊处	vwft	0
+你大爷永远是你大爷	wdww	0

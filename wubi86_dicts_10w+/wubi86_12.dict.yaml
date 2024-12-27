@@ -1,0 +1,29 @@
+# Rime dictionary - wubi86_12.dict.yaml
+# encoding: utf-8
+# 
+# --- 说明 ---
+# 该字典是基于官方码表版本
+# - https://github.com/rime/rime-wubi
+# - Jack Liu <https://aituyaa.com>
+# 
+# 修改内容：
+# - 删除非国标 8105-2023 单字及其所组词语 
+# - 按字数进行分表处理
+# - 合并全国省区县扩展词表
+# 
+# 运行脚本：
+# - https://github.com/loveminimal/rime-utils/blob/master/scripts/wubi86.py
+# - py scripts/wubi86.py [-i src] [-o out] [-f file_endswith_filter] [-m multifile_out_mode]
+# 
+# 其他参考码表：
+# - https://github.com/KyleBing/rime-wubi86-jidian
+# 
+---
+name: wubi86_12
+version: 2024-12-27
+sort: by_weight
+use_preset_vocabulary: false
+...
+元江哈尼族彝族傣族自治县	fike	530428
+孟连傣族拉祜族佤族自治县	blwe	530827
+海西蒙古族藏族自治州直辖	isal	632825

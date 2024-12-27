@@ -1,0 +1,106 @@
+# Rime dictionary - wubi86_8.dict.yaml
+# encoding: utf-8
+# 
+# --- 说明 ---
+# 该字典是基于官方码表版本
+# - https://github.com/rime/rime-wubi
+# - Jack Liu <https://aituyaa.com>
+# 
+# 修改内容：
+# - 删除非国标 8105-2023 单字及其所组词语 
+# - 按字数进行分表处理
+# - 合并全国省区县扩展词表
+# 
+# 运行脚本：
+# - https://github.com/loveminimal/rime-utils/blob/master/scripts/wubi86.py
+# - py scripts/wubi86.py [-i src] [-o out] [-f file_endswith_filter] [-m multifile_out_mode]
+# 
+# 其他参考码表：
+# - https://github.com/KyleBing/rime-wubi86-jidian
+# 
+---
+name: wubi86_8
+version: 2024-12-27
+sort: by_weight
+use_preset_vocabulary: false
+...
+巧妇难为无米之炊	avco	684000
+阿拉伯联合酋长国	brwl	528000
+新疆维吾尔自治区	uxxa	4050000
+时间旅行者的妻子	juyb	0
+没见过世面的样子	imfb	0
+复方角菜酸脂软膏	tyqy	0
+呼和浩特市市辖区	ktia	150101
+鄂尔多斯市市辖区	kqqa	150601
+呼伦贝尔市市辖区	kwma	150701
+巴彦淖尔市市辖区	cuia	150801
+乌兰察布市市辖区	qupa	150901
+阜新蒙古族自治县	wuae	210921
+长白朝鲜族自治县	trfe	220623
+延边朝鲜族自治州	tlfy	222400
+齐齐哈尔市市辖区	yyka	230201
+梅里斯达斡尔族区	sjaa	230208
+长阳土家族自治县	tbfe	420528
+五峰土家族自治县	gmfe	420529
+罗城仫佬族自治县	lfwe	451225
+环江毛南族自治县	gite	451226
+石柱土家族自治县	dsfe	500240
+沿河土家族自治县	iife	520627
+玉龙纳西族自治县	gdxe	530721
+墨江哈尼族自治县	like	530822
+澜沧拉祜族自治县	iire	530828
+怒江傈僳族自治州	viwy	533300
+维西傈僳族自治县	xswe	533423
+张家川回族自治县	xpke	620525
+肃南裕固族自治县	vfpe	620721
+肃北蒙古族自治县	vuae	620923
+循化撒拉族自治县	twre	630225
+河南蒙古族自治县	ifae	632324
+乌鲁木齐市市辖区	qqsa	650101
+克拉玛依市市辖区	drga	650201
+木垒哈萨克自治县	scke	652328
+伊犁哈萨克自治州	wtky	654000
+斯德哥尔摩综合征	atst	0
+萝卜青菜各有所爱	ahge	0
+葫芦里卖的什么药	aaja	0
+苍蝇不叮无缝的蛋	ajgn	0
+百尺竿头更进一步	dnth	0
+太阳从西边出来了	dbwb	0
+大规模杀伤性武器	dfsk	0
+地主家也没有余粮	fypo	0
+十五的月亮十六圆	fgrl	0
+一杆子打翻一船人	gsbw	0
+不杀不足以平民愤	gqgn	0
+一手好牌打得稀烂	grvo	0
+一分钱难倒英雄汉	gwqi	0
+一方水土养一方人	gyiw	0
+上有政策下有对策	hdgt	0
+睁一只眼闭一只眼	hgkh	0
+明知不可为而为之	jtgp	0
+早起的鸟儿有虫吃	jfrk	0
+是金子总会发光的	jqbr	0
+中央人民广播电台	kmwc	0
+跳进黄河也洗不清	kfai	0
+心急吃不了热豆腐	nqky	0
+精致的利己主义者	ogrf	0
+家家有本难念的经	ppdx	0
+多年的媳妇熬成婆	qrri	0
+鱼和熊掌不能兼得	qtct	0
+鱼与熊掌不可兼得	qgct	0
+狐狸尾巴露出来了	qqnb	0
+外来的和尚好念经	qgrx	0
+多一事不如少一事	qggg	0
+狗嘴里吐不出象牙	qkja	0
+捡了芝麻丢了西瓜	rbar	0
+枪杆子里面出政权	ssbs	0
+重要的事情说三遍	tsry	0
+癞蛤蟆想吃天鹅肉	ujjm	0
+前人栽树后人乘凉	uwfu	0
+好白菜都让猪拱了	vrab	0
+君子报仇十年不晚	vbrj	0
+全国人民代表大会	wlww	0
+你心里没点逼数吗	wnjk	0
+华人与狗不得入内	wwgm	0
+拿人钱财替人消灾	wwqp	0
+贫穷限制了想象力	wpbl	0
+费了九牛二虎之力	xbvl	0
